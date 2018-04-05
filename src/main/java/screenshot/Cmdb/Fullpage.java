@@ -27,7 +27,11 @@ public class Fullpage {
 	public void test()
 	{
 	System.out.println("test");	
-	}	
+	}
+	public void eshwar()
+	{
+		System.out.println("hi eshwar");
+	}
 	}
 
 
