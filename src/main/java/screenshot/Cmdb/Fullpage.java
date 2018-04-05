@@ -23,10 +23,11 @@ public class Fullpage {
 		 d.get(url);
 		 System.out.println(d.manage().window().getSize());
 		 d.manage().window().maximize();
-		
-	     
-	}
-		
+		}
+	public void test()
+	{
+	System.out.println("test");	
+	}	
 	}
 
 
