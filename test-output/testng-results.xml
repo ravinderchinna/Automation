@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29" started-at="2018-04-03T09:03:25Z" finished-at="2018-04-03T09:03:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29" started-at="2018-04-03T09:03:25Z" finished-at="2018-04-03T09:03:25Z">
+      <class name="screenshot.Cmdb.Testng">
+        <test-method status="PASS" signature="jaya()[pri:0, instance:screenshot.Cmdb.Testng@6d78f375]" name="jaya" duration-ms="8" started-at="2018-04-03T14:33:25Z" finished-at="2018-04-03T14:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jaya -->
+        <test-method status="PASS" signature="eshwar()[pri:0, instance:screenshot.Cmdb.Testng@6d78f375]" name="eshwar" duration-ms="1" started-at="2018-04-03T14:33:25Z" finished-at="2018-04-03T14:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eshwar -->
+        <test-method status="PASS" signature="manoj()[pri:0, instance:screenshot.Cmdb.Testng@6d78f375]" name="manoj" duration-ms="2" started-at="2018-04-03T14:33:25Z" finished-at="2018-04-03T14:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manoj -->
+        <test-method status="PASS" signature="ravinder()[pri:0, instance:screenshot.Cmdb.Testng@6d78f375]" name="ravinder" duration-ms="2" started-at="2018-04-03T14:33:25Z" finished-at="2018-04-03T14:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ravinder -->
+      </class> <!-- screenshot.Cmdb.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
